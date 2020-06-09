@@ -1,0 +1,37 @@
+:root {
+    --color: #e6e7e9;
+}
+
+.header {
+    padding: 20px;
+    display: flex;
+    font-size: 14px;
+    
+}
+
+.login, 
+.sign-up {
+    margin-left: 20px;
+    color: var(--color)
+}
+
+.start-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.new-group {
+    padding: 0 20px;
+    border-right: 1px var(--color) solid;
+    color: #00a2c7;
+    font-weight: 600;
+}
+
+.logo {
+    flex-grow: 1;
+}
+
+.logo img { 
+    height: 44px;
+}

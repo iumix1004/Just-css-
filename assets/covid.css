@@ -1,0 +1,32 @@
+:root {
+    --font: 14px;
+}
+
+.covid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #424242;
+    padding: 20px
+}
+
+.covid p {
+    line-height: 21px;
+}
+
+.covid-bold {
+    font-size: var(--font);
+    color: #ffad43;
+    font-weight: 700;
+}
+
+.covid-normal {
+    font-size: var(--font);
+    color: white;
+}
+
+.covid p a {
+    text-decoration: underline;
+    color: white;
+    font-size: var(--font);
+}
