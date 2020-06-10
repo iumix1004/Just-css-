@@ -1,6 +1,7 @@
 @import "covid.css"; 
 @import "header.css";
 @import "body-join.css";
+@import "body-hcontent.css";
 body {
     font-family: Arial, Helvetica, sans-serif;
 }

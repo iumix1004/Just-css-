@@ -1,0 +1,22 @@
+.hcontent {
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px #e6e7e9 solid;
+} 
+
+.hcontent-element {
+    padding: 5px 10px;
+    border: 1px #c5c4c4 solid;
+    background-color: #f6f7f8;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+
+.hcontent-element a {
+    text-decoration: none;
+    color: #cecdcd;
+    font-size: 14px;
+    font-weight: 600;
+}
+
